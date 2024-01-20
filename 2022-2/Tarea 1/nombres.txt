@@ -1,0 +1,3 @@
+Nicolás Berenguela 200 202173619-0 Creación de funciones y logica del main.
+Javiera Bobadilla 200 202173584-4 Creación de structs y comentarios en lo largo del código. 
+Vicente Rojas 200 202104561-9 Armado del main y prueba de casos.
