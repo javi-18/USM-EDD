@@ -1,0 +1,3 @@
+Javiera Bobadilla;202173584-4; programo los structs y ayudo a programar parte de las funciones de los equipos 
+Nicolas Berenguela;202173619-0; programo la parte de los equipos con todas sus funciones y ayudo con ciertas funciones del torneo
+Vicente Rojas;202104561-9; programo la parte del torneo con sus funciones, además de crear los archivos hpp y cpp
