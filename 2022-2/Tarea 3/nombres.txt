@@ -1,0 +1,3 @@
+Javiera Bobadilla;202173584-4; programo los structs,ayudo a programar parte de las funciones del hashing de las cartas y probar el codigo  
+Nicolas Berenguela;202173619-0; programo las funciones de Hashing de las cartas y sobres, además de funciones auxiliares
+Vicente Rojas;202104561-9; ayudo a programar la parte de las funciones del hashing de los sobres 

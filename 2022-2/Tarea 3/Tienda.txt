@@ -1,0 +1,40 @@
+5
+10 El_Destructor_Demoniaco 7 3 500
+12 Asesino_Discreto 6 8 750
+17 Ma_tetres 1 2 1000
+10 El_Destructor_Demoniaco 7 3 500
+8 Locos_Puntuales 9 9 1500
+3
+12376
+10 El_Destructor_Demoniaco 7 3 500
+12 Asesino_Discreto 6 8 750
+17 Ma_tetres 1 2 1000
+10 El_Destructor_Demoniaco 7 3 500
+8 Locos_Puntuales 9 9 1500
+10 El_Destructor_Demoniaco 7 3 500
+12 Asesino_Discreto 6 8 750
+17 Ma_tetres 1 2 1000
+10 El_Destructor_Demoniaco 7 3 500
+8 Locos_Puntuales 9 9 1500
+101010
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+1231845
+10 El_Destructor_Demoniaco 7 3 500
+12 Asesino_Discreto 6 8 750
+17 Ma_tetres 1 2 1000
+10 El_Destructor_Demoniaco 7 3 500
+8 Locos_Puntuales 9 9 1500
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
+12 Asesino_Discreto 6 8 750
