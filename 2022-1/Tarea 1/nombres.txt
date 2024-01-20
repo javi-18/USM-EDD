@@ -1,0 +1,16 @@
+Nombre / Rol / Paralelo
+
+Maximiliano Alberto Bardi Ureta / 202173510-0 / 200
+
+Trabajar en la comparacion de servicios y parte de la funcion para comparar tickets y el merge
+
+Javiera Francisca Bobadilla Cornejo / 202173584-4 / 200
+
+Trabajar en parte en los merg para ordenar los datos y poder operarlos correctamente y comparar las horas
+
+Elías William Abraham Valle Arias / 202173537-2 / 200
+
+Trabajar principalmente en los merg de ordenamiento y comparar horas
+
+
+No se puede describir mucho mas en que trabajo cada uno dado que ibamos escribiendo casi todo el codigo juntos planteandonos que hacer
